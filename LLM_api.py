@@ -9,7 +9,7 @@ and processing the results.
 
 import poe
 from Image_captioning import generate_caption
-client = poe.Client("pqwbrzjCafmAXogA2g7luA%3D%3D")
+client = poe.Client("POE_TOKEN")
 has_image= True
 
 def concatenate_strings(string_list):
