@@ -17,3 +17,14 @@ Once you have your gpt-3.5-turbo API, you can use your token to access the LLM.
 Then you need the pretrained weights of the image-to-text model or you can just uncomment everything in the train.py and run it so that it trains the model.
 
 Once you've that you can just run the main.py file and off you go.
+
+# Resources
+This GitHub repository contains the following resources:
+
+main.py: the main script for running the MLLM.
+image_captioning_model.py: the image-to-text model implementation.
+image_captioning_model_weights.h5: the pre-trained weights for the image-to-text model.
+train.py: this file is what you need if you want to retrain the image-to-text model.
+
+# Acknowledgments
+This project was inspired by the work of OpenAI and the GPT-3 language model. We would like to thank the developers and researchers who contributed to the development of these tools.
