@@ -30,8 +30,11 @@ Once you've that you can just run the main.py file and off you go.
 This GitHub repository contains the following resources:
 
 main.py: the main script for running the MLLM.
+
 image_captioning_model.py: the image-to-text model implementation.
+
 image_captioning_model_weights.h5: the pre-trained weights for the image-to-text model.
+
 train.py: this file is what you need if you want to retrain the image-to-text model.
 
 # Acknowledgments
