@@ -18,6 +18,14 @@ Then you need the pretrained weights of the image-to-text model or you can just 
 
 Once you've that you can just run the main.py file and off you go.
 
+# Sample Outputs
+
+![1-CisK0zJfr-transformed](https://github.com/OsamaSaa3d/MLLM/assets/32080534/48ef4b39-9e10-4f5b-bb1b-ae281f69fd16)
+
+![2-_wWl1mshQ-transformed](https://github.com/OsamaSaa3d/MLLM/assets/32080534/9b0b0090-768e-4ab4-84be-8c40323cf5c0)
+
+![3-8NPHL1eJY-transformed](https://github.com/OsamaSaa3d/MLLM/assets/32080534/020c3310-cdc5-4681-9468-3d0763846677)
+
 # Resources
 This GitHub repository contains the following resources:
 
